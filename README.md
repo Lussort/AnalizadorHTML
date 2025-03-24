@@ -1,8 +1,8 @@
 Analizador léxico de documentos HTML utilizando Java y JFlex
 Este repositorio contiene el desarrollo de un analizador léxico construido con el lenguaje de programación Java 21 y la herramienta JFlex, cuyo propósito es identificar y clasificar los componentes principales de documentos HTML. El proyecto fue realizado como parte de un trabajo académico del curso de Compiladores
-
+```
 El sistema recibe como entrada un archivo de texto que contiene contenido en formato HTML y genera como salida un archivo que presenta los tokens reconocidos por el analizador. Entre los elementos que se identifican se incluyen etiquetas de apertura y cierre (por ejemplo, <html>, </body>, <h1>), atributos de etiquetas (como class="...", id="...", href="..."), comentarios HTML (<!-- Esto es un comentario -->), entidades HTML (&lt;, &gt;, &amp;, &quot;, &apos;) y contenido textual que se encuentra entre las etiquetas.
-
+```
 El proyecto incluye los siguientes archivos:
 
 Analizador.flex: contiene las reglas léxicas definidas mediante expresiones regulares. Este archivo es procesado por JFlex para generar el analizador en Java.
