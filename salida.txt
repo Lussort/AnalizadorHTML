@@ -1,0 +1,41 @@
+Simbolo desconocido: <
+Texto: !DOCTYPE html
+Fin de etiqueta: >
+Etiqueta de apertura: <html
+Fin de etiqueta: >
+Etiqueta de apertura: <head
+Fin de etiqueta: >
+Etiqueta de apertura: <title
+Fin de etiqueta: >
+Texto: Mi Página
+Etiqueta de cierre: </title>
+Etiqueta de cierre: </head>
+Etiqueta de apertura: <body
+Fin de etiqueta: >
+Etiqueta de apertura: <h1
+Texto:  class=
+Simbolo desconocido: "
+Texto: titulo
+Simbolo desconocido: "
+Fin de etiqueta: >
+Texto: Bienvenidos
+Etiqueta de cierre: </h1>
+Etiqueta de apertura: <p
+Texto:  id=
+Simbolo desconocido: "
+Texto: intro
+Simbolo desconocido: "
+Fin de etiqueta: >
+Texto: Esta es una página de prueba.
+Etiqueta de cierre: </p>
+Comentario: <!-- Esto es un comentario -->
+Etiqueta de apertura: <a
+Texto:  href=
+Simbolo desconocido: "
+Texto: https://example.com
+Simbolo desconocido: "
+Fin de etiqueta: >
+Texto: Enlace
+Etiqueta de cierre: </a>
+Etiqueta de cierre: </body>
+Etiqueta de cierre: </html>
